@@ -4,6 +4,7 @@ Refer to the list of U.S. states two-letter abbreviations in the Wikipedia page 
 
 
 A. For _R programming_, use the package **rvest** (R) for scraping operations. Your R code should be done in _RMarkdown_ (.rmd).
+
 B. For _Python programming_, use the package **BeautifulSoup** (Python) for scraping operations. Your Python code should be done in _Jupyter Notebook_ (.ipynb).
  
 Submit only the *.rmd and *.ipynb files.
